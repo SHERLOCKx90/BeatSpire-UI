@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Poppins:wght@900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.doc-txt {
+    color: white;
+    font-size: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 130%;
+    margin-left: 50px;
+    text-align: left;
+    left: 6.04%;
+    right: 41.25%;
+    padding: 40px;
+}
+
+.beat-docs {
+    font-size: 200px;
+    margin-top: 30px;
+    color: #0a352d;
+
+}
